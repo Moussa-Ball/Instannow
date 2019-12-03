@@ -43,10 +43,6 @@ npm run build
 npm run lint
 ```
 
-## Contributing
-
-If you want to contribute directly to the project, I invite you to contact me from linkedin https://www.linkedin.com/in/moussa-ball-746347117/
-
 ## License
 
 Copyright © Instannow. All rights reserved.
